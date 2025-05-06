@@ -1,4 +1,4 @@
-package student;
+
 
 public class Divisionoperation {
     public static void main(String[] args) {
